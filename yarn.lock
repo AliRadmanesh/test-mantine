@@ -1703,13 +1703,6 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@mantine/carousel@5.5.1":
-  version "5.5.1"
-  resolved "https://registry.yarnpkg.com/@mantine/carousel/-/carousel-5.5.1.tgz#92908760bbd6a59aa1661c61cc4a7d61bfedd46f"
-  integrity sha512-pkRssE3M85i6W3lZeJ+LNQcAVjPNdfd6Kwkto21UymaiYY96B/EyVfLhJC2+NE5ho1nDdoN5d+OkORipMdofiQ==
-  dependencies:
-    "@mantine/utils" "5.5.1"
-
 "@mantine/core@5.5.1":
   version "5.5.1"
   resolved "https://registry.yarnpkg.com/@mantine/core/-/core-5.5.1.tgz#e08fdde889ded79d526016e80c5336102c435565"
@@ -1720,13 +1713,6 @@
     "@mantine/utils" "5.5.1"
     "@radix-ui/react-scroll-area" "1.0.0"
     react-textarea-autosize "8.3.4"
-
-"@mantine/dates@5.5.1":
-  version "5.5.1"
-  resolved "https://registry.yarnpkg.com/@mantine/dates/-/dates-5.5.1.tgz#e9b98126229091b1d4163cff11d24cea192b5552"
-  integrity sha512-lKARbcTEltpF551Xm34hxNKEkElAnJqdsWBO78fjsbO2PKFWpyoIpaVZqUshDWGNr1TwqpHcZcSB91PtuTnHkw==
-  dependencies:
-    "@mantine/utils" "5.5.1"
 
 "@mantine/hooks@5.5.1":
   version "5.5.1"
@@ -1748,14 +1734,6 @@
   dependencies:
     "@mantine/utils" "5.5.1"
     react-transition-group "4.4.2"
-
-"@mantine/prism@5.5.1":
-  version "5.5.1"
-  resolved "https://registry.yarnpkg.com/@mantine/prism/-/prism-5.5.1.tgz#4ad39d96169c08ba79b9394443705aedc547436a"
-  integrity sha512-5Aj2DbU3dgUMAgxd2jl16VNyYZFs+Tln3vH8hTvEGA8iBWSb6xnwgGIGFTu2ZmFcUrT+SY5fnqK53jdKqBLTDg==
-  dependencies:
-    "@mantine/utils" "5.5.1"
-    prism-react-renderer "^1.2.1"
 
 "@mantine/ssr@5.5.1":
   version "5.5.1"
@@ -5488,18 +5466,6 @@ elliptic@^6.5.3:
     inherits "^2.0.4"
     minimalistic-assert "^1.0.1"
     minimalistic-crypto-utils "^1.0.1"
-
-embla-carousel-react@^7.0.3:
-  version "7.0.3"
-  resolved "https://registry.yarnpkg.com/embla-carousel-react/-/embla-carousel-react-7.0.3.tgz#343c972a1ac5869acba3d6e9c7eeb3bd27f7e335"
-  integrity sha512-nvgAAmoFuXyCPuH2rSTnSdaTSMwFX/ilXDlfMCCDfdaj4X3u25+x8lMC1bINuk+4G2Hm6SOlrZ1eGkYdBg5HAg==
-  dependencies:
-    embla-carousel "7.0.3"
-
-embla-carousel@7.0.3:
-  version "7.0.3"
-  resolved "https://registry.yarnpkg.com/embla-carousel/-/embla-carousel-7.0.3.tgz#7173a0f27b697a42266d34764c657eeba85bd7b5"
-  integrity sha512-Zo8E/qNb8J7n/jcfQxPrfdARlTgsMvmcXshn3J/2oxWVLwL/3N4cAhuqLQiud/oCjZzl+A8maCJDe2PDVlc/cA==
 
 emittery@^0.8.1:
   version "0.8.1"
@@ -9850,11 +9816,6 @@ pretty-hrtime@^1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/pretty-hrtime/-/pretty-hrtime-1.0.3.tgz#b7e3ea42435a4c9b2759d99e0f201eb195802ee1"
   integrity sha1-t+PqQkNaTJsnWdmeDyAesZWALuE=
-
-prism-react-renderer@^1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/prism-react-renderer/-/prism-react-renderer-1.2.1.tgz#392460acf63540960e5e3caa699d851264e99b89"
-  integrity sha512-w23ch4f75V1Tnz8DajsYKvY5lF7H1+WvzvLUcF0paFxkTHSp42RS0H5CttdN2Q8RR3DRGZ9v5xD/h3n8C8kGmg==
 
 prismjs@^1.27.0:
   version "1.28.0"
